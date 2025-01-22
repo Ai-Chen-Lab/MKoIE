@@ -18,9 +18,19 @@ pip install -r requirements.txt
 ```
 
 # Training  
-
+1. Please download the corresponding training datasets and put them in the folder.
+2. Please run the prepare_patches.py and check the `Train.h5` file.
+3. Begin training our model.
+```
+python Train.py
+```
 
 # Testing
-
+1. Please download the corresponding testing datasets and put them in the other folder.
+2. Please check the `checkpoint.pth.tar` file.
+3. Begin testing our model.
+```
+python Test.py
+```
 
 # Citation  
