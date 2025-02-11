@@ -1,8 +1,9 @@
 <div align="center">
   <p>
-        <img src="images/logo.png" width="100">
+        <img src="images/logo.png" width="220">
     </a>
 </p>
+</div>
 
 # MToIE
 Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems
