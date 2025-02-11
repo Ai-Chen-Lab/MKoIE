@@ -1,3 +1,9 @@
+<div align="center">
+  <p>
+        <img src="images/logo.png" width="700">
+    </a>
+</p>
+
 # MToIE
 Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems
 
