@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  2 13:56:32 2021
-
-@author: 13362
-"""
-
 import cv2
 import numpy as np
 import math 
