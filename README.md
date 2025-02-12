@@ -19,13 +19,16 @@ The training and testing datasets include realistic single image dehazing (RESID
 checkpoint will be released later! Or you can train it by yourself.
 
 # ⚙️ Installation  
-```
-pip install -r requirements.txt
-```
+This codebase was tested with the following environment configurations:
+
+- Ubuntu 20.04
+- CUDA 11.8
+- Python 3.8
+- PyTorch 1.11.0 + cu113
 
 # 🔥 Training  
 1. Please download the corresponding training datasets and put them in the folder.
-2. Please run the prepare_patches.py and check the `Train.h5` file.
+2. Please run the `prepare_patches.py` and check the `Train.h5` file.
 3. Begin training our model.
 ```
 python Train.py
