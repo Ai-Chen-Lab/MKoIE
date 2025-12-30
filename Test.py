@@ -6,7 +6,7 @@ from thop import profile
 import cv2
 import time
 import os
-from MTOIE import *
+from MToIE import *
 import utils_train
 
 
