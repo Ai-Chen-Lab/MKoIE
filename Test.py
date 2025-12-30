@@ -6,7 +6,7 @@ from thop import profile
 import cv2
 import time
 import os
-from KPTNet_ablation_ import *
+from MTOIE import *
 import utils_train
 
 
