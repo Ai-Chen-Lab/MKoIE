@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader
 import numpy as np
 import cv2
 import scipy.misc
-from MToIER import *
+from MToIE import *
 from makedataset import Dataset
 import utils_train
 from Test_SSIM_A import *
